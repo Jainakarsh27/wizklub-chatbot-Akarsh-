@@ -98,9 +98,7 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 19
 # wizklub-chatbot-Akarsh-
-20
->>>>>>> 488e7e320d9047182b1599f4039d9a1291a10e57
-28
+
 ## 📂 Project Structure
 29
 30
