@@ -22,10 +22,7 @@ I've ensured the syntax follows GFM (GitHub Flavored Markdown) standards.
 Here is the final structure of your 
 README.md
 :
-
-1
-<<<<<<< HEAD
-2
+--------------------------------------------------------------------
 # React + Vite
 1
 # 🤖 WizKlub AI Lead Capture Chatbot
