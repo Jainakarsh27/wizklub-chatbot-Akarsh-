@@ -86,7 +86,7 @@ This helps prioritize high-intent leads.
 
 ## 🌐 Live Deployment
 
-🔗 [Add Your Live Vercel Link Here]
+🔗 wizklub-chatbot-akarsh.vercel.app
 
 ---
 
@@ -94,7 +94,7 @@ This helps prioritize high-intent leads.
 
 Akarsh Jain  
 Final Year Student  
-[Add LinkedIn or Contact if needed]
+[[Add LinkedIn or Contact if needed]](https://www.linkedin.com/in/akarsh-jain-940220252/)
 
 ---
 
